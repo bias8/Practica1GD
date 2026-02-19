@@ -27,7 +27,7 @@ Aplicar el sistema de Lotka-Volterra para analizar los datos registrados en la i
 
 donde los valores de los parámetros alpha, beta, delta, gamma > 0, y las condiciones iniciales x(0), y(0) > 0. La descripción de las ecuaciones del sistema de Lotka-Volterra (1)-(2) se realiza a continuación. La Ecuación (1) modeliza la dinámica de la población presa en la cual el término +alpha*x define el crecimiento de esta población de manera exponencial y el término -beta*x*y describe la tasa de depredación como una proporción entre los encuentros de la población presa y los depredadores. La Ecuación (2) modeliza la evolución de los depredadores, el término +delta*x*y implica que el crecimiento de la población depredadora depende del encuentro con las presas, sin embargo, la tasa de crecimiento no necesariamente es igual a la tasa en que consumen a las presas, por eso se emplean parámetros distintos, el término - gamma*y  representa la muerte natural o emigración de los depredadores como un decrecimiento exponencial en la ausencia de presas.
 
-Palabras clave: Bioestadísticos; Modelo matemático; Regresión no lineal; Simulaciones numéricas; Sistemas dinámicos no lineales; Ecuaciones diferenciales; Lotka-Volterra; Presa; Depredador.
+Palabras clave: Modelo matemático; Ecuaciones diferenciales; Lotka-Volterra; Presa; Depredador.
 
 ## Actividades a realizar  
 1. Utilizar Graph Grabber para convertir los registros de la Figura 1.1 del libro "Garfinkel, Alan, Jane Shevtsov, and Yina Guo. Modeling life: the mathematics of biological systems. Springer International Publishing AG, 2017" en series de tiempo, donde x(t): liebres (snowshoe hares), y(t): linces (lynx) y el tiempo t está medido en años.
