@@ -3,7 +3,7 @@
 # Práctica 1: Sistema de Lotka-Volterra
 
 ## Información de la estudiante
-Bricia Idalia Arellano Salones \[22211746]; L22211746@tijuana.tecn.mx
+Bricia Idalia Arellano Salones \[22211746]; L22211746@tijuana.tecnm.mx
 
 Gemelos Digitales
 
